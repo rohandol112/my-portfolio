@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "unsupervised_ml_analysis",
+      "title": "Applications of Unsupervised Machine Learning Techniques and Clustering Analysis",
+      "technologies": ["Python", "NetCDF Data"],
+      "github_link": "GitHub Link",
+      "category": "rainfall",
+      "description": [
+        "Utilized unsupervised machine learning and clustering techniques to analyze rainfall data, leading to the identification of key trends and the creation of predictive models."
+      ]
+    },
+    {
+      "id": "clothing_brand_website",
+      "title": "Clothing Brand Website",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "github_link": "GitHub Link",
+      "category": "website",
+      "description": [
+        "Developed a fully responsive prototype of a clothing brand website using HTML and CSS."
+      ]
+    },
+    {
+      "id": "stress_management_app",
+      "title": "Stress Management System App",
+      "technologies": ["Flutter", "Firebase"],
+      "github_link": "GitHub Link",
+      "category": "android",
+      "description": [
+        "Developing a mobile app to assist users in managing stress through AI-driven sentiment analysis and relaxation tools."
+      ]
+    }
+  ]
+}
